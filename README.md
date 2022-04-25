@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Kn3n
-- 🌱 I’m currently learning new tecnologic
+### Wassup 👋
 
-<!---
-Kn3n/Kn3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=kn3n&style=plastic)
+#### I'm Kn3, I founded & make magic happen for [@Outhrom](https://github.com/Outhrom).
+
+##### BIO
+Wait for this
+
+![Metrics](https://metrics.lecoq.io/kn3n?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=Europe%2FSpain&config.padding=0%2C%2015%25)
+
+![](https://hit.yhype.me/github/profile?user_id=)
